@@ -1,1 +1,3 @@
 pass2=***
+bazaarcheIabKey="your_release_Iab_rsa_key"
+bazaarcheIabKeyDev="your_debug_Iab_rsa_key"
